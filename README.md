@@ -7,6 +7,7 @@ Visit [MakeStuffOrDie](http://www.youtube.com/user/microstrat) at youtube and su
 ### Software
 * Arduino IDE - http://www.arduino.cc/
 * u8glib - https://code.google.com/p/u8glib/
+
 ### Hardware
 * Arduino Pro Mini/Nano or clones (if your clone does not have USB, a USB2serial adapter is required)
 * 3D printer
