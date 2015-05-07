@@ -5,7 +5,7 @@ Visit [MakeStuffOrDie](http://www.youtube.com/user/microstrat) at youtube and su
 
 ## Prerequisites
 ### Software
-* Arduino - IDE http://www.arduino.cc/
+* Arduino IDE - http://www.arduino.cc/
 * u8glib - https://code.google.com/p/u8glib/
 ### Hardware
 * Arduino Pro Mini/Nano or clones (if your clone does not have USB, a USB2serial adapter is required)
@@ -15,6 +15,7 @@ Visit [MakeStuffOrDie](http://www.youtube.com/user/microstrat) at youtube and su
 * Some wires
 
 ## Installation
-* Add u8glib to your Arduino libraries: http://www.arduino.cc/en/guide/libraries* Clone this repository or just download uArcade.ino
+* Add u8glib to your Arduino libraries: http://www.arduino.cc/en/guide/libraries
+* Clone this repository or just download uArcade.ino
 * Compile uArcade.ino and send to Arduino
 
